@@ -23,7 +23,12 @@ namespace ienumerable_oop {
         }
 
         public IEnumerator GetEnumerator() {
-            return InnerList.Take(index).GetEnumerator();
+            
+            // default
+            //return InnerList.Take(index).GetEnumerator();
+
+            // custom
+            return new ArrayEnumerator(InnerList);
         }
     }
 }

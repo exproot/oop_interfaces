@@ -9,13 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iformattable_oop", "iformat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "icloneable_oop", "icloneable_oop\icloneable_oop.csproj", "{454D7988-85D0-4268-BB8A-FEEFB6F860FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icomparable_oop", "icomparable_oop\icomparable_oop.csproj", "{FC99938F-3047-4258-85DD-87E7DBEF5FF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "icomparable_oop", "icomparable_oop\icomparable_oop.csproj", "{FC99938F-3047-4258-85DD-87E7DBEF5FF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icomparable_T_oop", "icomparable_T_oop\icomparable_T_oop.csproj", "{8CB0736C-F34D-4ACA-8544-7405CBD56630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "icomparable_T_oop", "icomparable_T_oop\icomparable_T_oop.csproj", "{8CB0736C-F34D-4ACA-8544-7405CBD56630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ienumerator_oop", "ienumerator_oop\ienumerator_oop.csproj", "{8EC5824F-A210-4353-80D0-A8354F2C1FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ienumerator_oop", "ienumerator_oop\ienumerator_oop.csproj", "{8EC5824F-A210-4353-80D0-A8354F2C1FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ienumerable_oop", "ienumerable_oop\ienumerable_oop.csproj", "{AB19A167-3A4A-483C-8E76-51BC76BFF154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ienumerable_oop", "ienumerable_oop\ienumerable_oop.csproj", "{AB19A167-3A4A-483C-8E76-51BC76BFF154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

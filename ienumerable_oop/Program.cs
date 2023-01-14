@@ -4,7 +4,7 @@ namespace ienumerable_oop {
     public class Program {
         static void Main(string[] args) {
 
-            var arr1_custom = new Array(1, 3, 5,7);
+            var arr1_custom = new Array(1, 3, 5,7, 9);
             var arr2 = new int[] { 1, 3, 5, 7 };
 
             //predefined
