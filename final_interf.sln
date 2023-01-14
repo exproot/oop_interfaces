@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icomparable_oop", "icompara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icomparable_T_oop", "icomparable_T_oop\icomparable_T_oop.csproj", "{8CB0736C-F34D-4ACA-8544-7405CBD56630}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ienumerator_oop", "ienumerator_oop\ienumerator_oop.csproj", "{8EC5824F-A210-4353-80D0-A8354F2C1FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8CB0736C-F34D-4ACA-8544-7405CBD56630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB0736C-F34D-4ACA-8544-7405CBD56630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB0736C-F34D-4ACA-8544-7405CBD56630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC5824F-A210-4353-80D0-A8354F2C1FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC5824F-A210-4353-80D0-A8354F2C1FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC5824F-A210-4353-80D0-A8354F2C1FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC5824F-A210-4353-80D0-A8354F2C1FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
